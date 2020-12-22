@@ -2,11 +2,12 @@
 # returns the phrase
 
 
-def parrot
-  puts "Squawk!"
-  return "Squawk!"
+def parrot(phrase)
+  if phrase == phrase
+    puts phrase
+    return phrase
+  else
+    puts "Squawk!"
+    return "Squawk!"
+  end
 end
-
-phrase = parrot()
-
-puts phrase
