@@ -7,4 +7,4 @@ def parrot(speak)
   return speak
 end
 
-parrot("Squawk!")
+
