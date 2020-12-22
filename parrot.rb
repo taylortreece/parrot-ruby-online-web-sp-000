@@ -8,3 +8,5 @@ def parrot(speak)
 end
 
 phrase = parrot("Squawk!")
+
+phrase
