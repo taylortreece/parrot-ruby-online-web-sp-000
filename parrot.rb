@@ -9,4 +9,4 @@ end
 
 phrase = parrot("Squawk!")
 
-phrase
+puts phrase
